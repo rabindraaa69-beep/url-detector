@@ -6,7 +6,7 @@
 
 # 
 
-# \*\*Live demo:\*\* \_add link after deploying\_
+# Live demo: https://url-detector-7cnb9ivo4mjjzszgxymfq7.streamlit.app/
 
 # 
 
